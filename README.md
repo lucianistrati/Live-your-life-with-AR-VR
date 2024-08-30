@@ -8,4 +8,3 @@ Touch/feel - look into how to codify that
 
 Trying clothes - using computer vision to see whether clothes actually fit your not (attache the touch/feel experience, not only the seeing/visual part)
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
